@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(/assets/img/confetti-doodles.svg);
+    background-image: url(../img/confetti-doodles.svg);
 
 }
 
@@ -22,7 +22,7 @@ span{
     min-width: 1000px;
     width: 100%;
     height: 600px;
-    background-image: url(/assets/img/abstract-envelope.svg);
+    background-image: url(../img/abstract-envelope.svg);
     background-size: cover;
     color: rgb(235, 235, 235);
 }
