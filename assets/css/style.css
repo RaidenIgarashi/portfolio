@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: url(../img/confetti-doodles.png);
+    background-color: #23272A;
 
 }
 
@@ -22,7 +22,7 @@ span{
     min-width: 1000px;
     width: 100%;
     height: 600px;
-    background-image: url(../img/abstract-envelope.svg);
+    background-color: #2C2F33;
     background-size: cover;
     color: rgb(235, 235, 235);
 }
