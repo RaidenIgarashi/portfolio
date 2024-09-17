@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url(/assets/img/confetti-doodles.svg);
+
+}
+
+span{
+    margin-left: 120px;
+    font-size: 17px;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    flex-flow: column wrap;
+    align-items: center;
+}
+.intro{
+    min-width: 1000px;
+    width: 100%;
+    height: 600px;
+    background-image: url(/assets/img/abstract-envelope.svg);
+    background-size: cover;
+    color: rgb(235, 235, 235);
+}
+
+header{
+    
+    margin-bottom: 100px;
+    font-size: 20px;
+}
+
+footer{
+    background-color: #2C2F33;
+    min-width: 1000px;
+    width: 100%;
+    height: 100px;
+}
+.perfil-img{
+    height: 200px ;
+    width: 200px;
+}
+.projects{
+    margin-top: 100px;
+}
+section{
+    width: 1000px;
+    position: relative;
+    min-height: 500px;
+    margin-bottom: 100px;
+    background-color: #2C2F33;
+    color:white;
+
+}
+
+.section-content{
+    width: 85%;
+    display: flex;
+}
+.logo-simple-care{
+    height: 200px;
+}
+
+.logo-nex{
+    margin-bottom: 40px;
+}
+
+.topics-section{
+    max-width: 50%;
+    font-size: 20px;
+    margin-bottom: 30px;
+
+}
+
+.topic-txt{
+    text-indent: 30px;
+}
+
+.ads-container{
+    height: 456px;
+    width:211px;
+    margin-left: 150px;
+    display: flex;
+    overflow: hidden;
+  } 
+.slide{
+    display: flex;
+  }
+
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link-container{
+    margin-top: 20px;
+    text-indent: 30px;
+}
+
+.link:hover{
+    color: rgb(0, 183, 255);
+}
+
+.img-nex{
+    height: 500px;
+    margin-left: 100px;
+}
+
+.footer-img{
+    height: 50px;
+    margin: 25px 20px 0 20px;
+}
